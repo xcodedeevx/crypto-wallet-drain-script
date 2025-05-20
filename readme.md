@@ -7,13 +7,13 @@ In the fast paced world of crypto, crypto drainer scripts have become a major th
 Crypto drainer scripts are malicious codes that steal cryptocurrency from wallets. They exploit wallet connections and smart contracts, often using social engineering to trick users into granting access. Once inside, these scripts can drain funds in seconds, making them a major threat to crypto users.
 
 ## How Crypto Drainer Scripts Work
-Targeting Popular Wallets: These scripts are compatible with Wallet Connect enabled wallets like MetaMask, Phantom and Trust Wallet, making them cross chain across multiple blockchains, Ethereum, Solana, Tron and TON.
+1. Targeting Popular Wallets: These scripts are compatible with Wallet Connect enabled wallets like MetaMask, Phantom and Trust Wallet, making them cross chain across multiple blockchains, Ethereum, Solana, Tron and TON.
 
-Phishing Attacks: Attackers create fake websites or landing pages that mimic legitimate platforms. Users are tricked into connecting their wallets, allowing the script to gain access.
+2. Phishing Attacks: Attackers create fake websites or landing pages that mimic legitimate platforms. Users are tricked into connecting their wallets, allowing the script to gain access.
 
-Malicious Smart Contracts: Once a wallet is connected, users are prompted to interact with a malicious smart contract. Functions like approve or permit grant attackers access to the wallet’s assets.
+3. Malicious Smart Contracts: Once a wallet is connected, users are prompted to interact with a malicious smart contract. Functions like approve or permit grant attackers access to the wallet’s assets.
 
-Asset Drainage: With access secured, attackers execute rapid fund transfers, often using mixers or multi-hop transactions to cover their tracks. Stolen funds are liquidated quickly to avoid detection.
+4. Asset Drainage: With access secured, attackers execute rapid fund transfers, often using mixers or multi-hop transactions to cover their tracks. Stolen funds are liquidated quickly to avoid detection.
 
 ## Why Crypto Drainer Scripts Are Bad
 Multichain: These scripts can target multiple blockchains, Ethereum, Solana, Tron and TON, making them a widespread threat.
