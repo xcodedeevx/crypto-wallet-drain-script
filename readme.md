@@ -3,6 +3,9 @@
 ## Crypto Drainer Scripts: Everyday Crypto Users
 In the fast paced world of crypto, crypto drainer scripts have become a major threat to everyday users. These malicious tools, also known as wallet drainer scripts, target popular wallets like MetaMask, Phantom and Trust Wallet, draining funds from unsuspecting victims. Whether you hold Ethereum, Solana, Tron, Bitcoin, USDT or NFTs, understanding how these scripts work is key to protecting your assets.
 
+## Learn More
+To read more about crypto drainer scripts with a live demo go to [Cryptodrainers.net](https://Cryptodrainers.net)
+ 
 ## What are Crypto Drainer Scripts?
 Crypto drainer scripts are malicious codes that steal cryptocurrency from wallets. They exploit wallet connections and smart contracts, often using social engineering to trick users into granting access. Once inside, these scripts can drain funds in seconds, making them a major threat to crypto users.
 
@@ -57,6 +60,6 @@ Compare The Top 6 Crypto Hardware Wallets In 2025
 Simple Hack To Remove Wallet Permissions and Improve Crypto Security
 
 ## Learn More
-To read more about crypto drainer scripts with a live demo go to [Drainerkits.com](https://Drainerkits.com)
+To read more about crypto drainer scripts with a live demo go to [Cryptodrainers.net](https://Cryptodrainers.net)
 
 ---
